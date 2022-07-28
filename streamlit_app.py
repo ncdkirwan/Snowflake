@@ -1,3 +1,5 @@
+#don't run anything past here while we troubleshoot
+streamlit.stop()
 import streamlit
 import pandas
 import requests
